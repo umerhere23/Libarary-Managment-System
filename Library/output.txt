@@ -1,0 +1,6 @@
+Title: 1984, Days: 5
+Title: The Great Gatsby, Days: 4
+Title: Pride and Prejudice, Days: 55
+Total Books Borrowed: 3
+Total Days Borrowed: 64
+
